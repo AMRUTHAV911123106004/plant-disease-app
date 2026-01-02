@@ -1,6 +1,6 @@
 streamlit
-tensorflow==2.13.0
 numpy
 pillow
 gdown
 opencv-python-headless
+tensorflow-cpu==2.12.0
